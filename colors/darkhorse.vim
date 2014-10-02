@@ -130,7 +130,7 @@ call AddHighlight("PMenu", s:grey, s:light_grey, s:none)
 
 
 
-hi! link ColorColumn GreyBg
+hi! link ColorColumn DarkGreyBg
 hi! link CursorColumn DarkGreyBg
 hi! link CursorLine DarkGreyBg
 
